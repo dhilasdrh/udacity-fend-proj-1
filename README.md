@@ -4,6 +4,13 @@
 **Unit 2: Building Blocks of Front-End Development**
 <hr>
 
+## NOTE
+Original work on this project was completed in a subdirectory of the repo **udacity-fend**, which I established to hold all of my work for the Udacity nanodegree. Upon discovering that Udacity expects each project to reside within its own, dedicated repo, I established this repo to submit my first project for the program.
+
+The original work, with all commits, remains intact at [webdevjeffus/udacity-fend/unit2-building-blocks/portfolio-assmt](https://github.com/webdevjeffus/udacity-fend/tree/master/unit2-building-blocks/portfolio-assmt).
+<hr>
+
+
 ## Assignment
 The assignment was to create a one-page portfolio using HTML5 and CSS3. Required elements included:
 * at least 4 images
